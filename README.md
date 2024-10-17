@@ -17,7 +17,7 @@
   
 ## Live Demo
 Check out the live version of the website:  
-[Live Demo](https://ranjith7265.github.io/SnapGallery.github.io/)
+[Live Demo](https://thisisranjithk.github.io/SnapGallery.github.io/)
 
 ## How It Works
 
